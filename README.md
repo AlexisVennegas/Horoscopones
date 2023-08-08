@@ -39,7 +39,8 @@ Puedes probar la aplicación en el siguiente enlace: [Horóscopos Groseros](http
 ## Capturas de Pantalla
 
 ![image](https://github.com/AlexisVennegas/Horoscopones/assets/107916070/53397a7b-cc9b-4a08-9d1e-4c0319ac3577)
-![image](https://github.com/AlexisVennegas/Horoscopones/assets/107916070/a4e9dd89-e431-43c2-8b0c-9ee62b1548d8)
+![image](https://github.com/AlexisVennegas/Horoscopones/assets/107916070/0630bc6d-a58a-41f3-b1e4-b0dafb99f5f6)
+
 
 ## Contacto
 
