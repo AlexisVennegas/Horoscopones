@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Horoscopones/static/css/main.1666be9f.css",
+    "main.js": "/Horoscopones/static/js/main.8946fdeb.js",
+    "index.html": "/Horoscopones/index.html",
+    "main.1666be9f.css.map": "/Horoscopones/static/css/main.1666be9f.css.map",
+    "main.8946fdeb.js.map": "/Horoscopones/static/js/main.8946fdeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1666be9f.css",
+    "static/js/main.8946fdeb.js"
+  ]
+}
