@@ -48,7 +48,7 @@ const Main = () => {
       </div>
       <div className='form_whatssapp'>
         <form className='form_pedejo' onSubmit={handleSubmit3}>
-              <input className='input_horoscopo' placeholder="telefono ? 👈🏻"  type="text" onChange={(e) => setSigne(e.target.value)} value={whatsapp}/>
+              <input className='input_horoscopo' placeholder="telefono ? 👈🏻"  type="text" onChange={(e) => setSigne(e.target.value)}/>
             <div className='buttons-container'>
               <button type="submit">Enviar</button>
             </div>
